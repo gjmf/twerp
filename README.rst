@@ -16,7 +16,7 @@ Features:
  * Buy phone numbers from the command-line in the U.S., toll free and wherever Twilio sells them
  * Manage Twilio accounts: create new sub-accounts, list, rename accouts
  * Make phone calls from the command-line 
- * Conrtol call flow from the command-line using stateless TwiML transactions (no web app necessary)
+ * Control call flow from the command-line using stateless TwiML transactions (no web app necessary)
  * Command-line driven conference calls
  * Send and receive SMS text messages
  * Read your Twilio logs from the command-line
@@ -53,7 +53,7 @@ ACCOUNT_SID=a902830980980980ff987yada
 
 AUTH_TOKEN=98798asdfas9df87sadf987yada
 
-CALLERID=+12135551212
+CALLER_ID=+12135551212
 
 
 
